@@ -214,6 +214,13 @@ img {
 .home .content-section .img-content img {
   border-radius: 10px;
 }
+.home .header-content {
+  border-bottom: 2px dashed silver;
+  padding-bottom: 12px;
+}
+.home .header-content img {
+  padding-bottom: 12px;
+}
 .home .inverse-content {
   padding-bottom: 30px;
   border-bottom: 2px dashed #C0C0C0;
