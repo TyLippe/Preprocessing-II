@@ -208,6 +208,7 @@ img {
 }
 .nav-content h2 {
   animation: test 10s infinite;
+  font-size: 5rem;
 }
 .nav-content a {
   text-align: right;
