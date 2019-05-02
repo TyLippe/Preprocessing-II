@@ -1,3 +1,20 @@
+@keyframes test {
+  0% {
+    color: #212529;
+  }
+  25% {
+    color: #17A2B8;
+  }
+  50% {
+    color: #C0C0C0;
+  }
+  75% {
+    color: #FFEBCD;
+  }
+  100% {
+    color: #212529;
+  }
+}
 .button {
   width: 80%;
   text-align: center;
@@ -188,6 +205,9 @@ img {
     margin-left: -48px;
     margin-right: -48px;
         */
+}
+.nav-content h2 {
+  animation: test 10s infinite;
 }
 .nav-content a {
   text-align: right;
