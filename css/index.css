@@ -1,3 +1,13 @@
+.button {
+  width: 80%;
+  text-align: center;
+  padding: 12px;
+  border-radius: 15px;
+  color: white;
+  background-color: #17A2B8;
+  border: 1px silver solid;
+  font-size: 1.6rem;
+}
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -239,6 +249,16 @@ img {
 }
 .home .content-destination img {
   border-radius: 10px;
+}
+.home .btn {
+  width: 80%;
+  text-align: center;
+  padding: 12px;
+  border-radius: 15px;
+  color: white;
+  background-color: #17A2B8;
+  border: 1px silver solid;
+  font-size: 1.6rem;
 }
 .home .content-pick {
   padding-top: 30px;
